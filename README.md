@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-    <img alt="GamaHacker" title="#GamaHacker" src=".github/hacker.svg" width="50px" />
+    <img alt="GamaHacker" title="#GamaHacker" src="./hacker.svg" width="50px" />
 </p>
 
 ## Sobre o Projeto 💻
