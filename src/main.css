@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #731ab7;
+  color: #fafafa;
+}
+
+.content-container {
+  height: 100%;
+  margin: 0 5rem;
+  display: flex;
+  flex-direction: column;
+  widtH: 30%;
+}
+
+.result-container {
+  margin-top: 3rem;
+  border: 1rem solid #63dc3e;
+  width: 100%;
+}

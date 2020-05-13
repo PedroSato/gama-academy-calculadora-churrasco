@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./src/main.css" />
+    <title>Gama Academy - Calculadora de churrasco</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <h3>GAMA ACADEMY - CALCULADORA DE CHURRASCO</h3>
+    </header>
+
+    <div class="content-container">
+      <label for="pessoas-qnt">Quantidade de pessoas:</label>
+      <input id="pessoas-qnt" type="text" />
+
+      <label for="vegetarianos-qnt">Quantidade de pessoas vegetarianas:</label>
+      <input id="vegetarianos-qnt" type="text" />
+
+      <button id="botaoCalcular">Calcular</button>
+
+      <div class="result-container">
+        <ul>
+          <li>Carne: <span id="carne-qnt">0</span> Kilos</li>
+          <li>
+            Acompanhamentos: <span id="acompanhamentos-qnt">0</span> Kilos
+          </li>
+          <li>Cerveja: <span id="cerveja-qnt">0</span> Litros</li>
+        </ul>
+      </div>
+    </div>
+    <script src="./src/main.js"></script>
+  </body>
+</html>
