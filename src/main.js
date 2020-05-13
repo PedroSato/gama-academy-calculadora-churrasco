@@ -1,14 +1,18 @@
-// Abaixo está a lógica da nossa calculadora mas perceba que tem muita coisa faltando,
-// e é com você mudar isso para nós termos uma calculadora funcional.
-// Ao final disso, mude também o css, o html, adicione imagens se desejar, essa calculadora é
-// deixe essa calculadora com a sua cara
+/*
+Abaixo está a lógica da nossa calculadora mas perceba que tem muita coisa faltando,
+e é com você mudar isso para nós termos uma calculadora funcional.
+Ao final disso, mude também o css, o html, adicione imagens se desejar, essa calculadora é sua
+deixe ela com a sua cara
+*/
 
 const calcularChurrasco = () => {
     const quantidadePessoas = pessoas.value;
     let quantidadeCarne = 0
-    //Aqui você irá inserir a lógica para calcular
-    //a quantidade de carne, acompanhamentos e cerveja para o churrasco.
-    //perceba que faltam os campos de cerveja e acompanhamentos, isso fica por sua conta :)
+    /*
+    Aqui você irá inserir a lógica para calcular
+    a quantidade de carne, acompanhamentos e cerveja para o churrasco.
+    Perceba que faltam os campos de cerveja e acompanhamentos, isso fica por sua conta :)
+    */
     resultadoCarne.innerHTML = 100;
 }
 const botao = document.querySelector("#botaoCalcular").addEventListener("click", calcularChurrasco)
