@@ -18,6 +18,15 @@ Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O proje
 
 Para conseguir utilizar o template basta fazer o download do projeto ou clonando utilizando o Git em seu terminal.
 
+## Observações 📌
+
+No template temos a lógica do calculo criada e os campos definidos, mas sinta-se a vontade para fazer alterações :D
+Para agilizar o desenvolvimento, criamos também um wireframe para você seguir e não se preocupar com design. Os dados de cores, tamanhos e fontes constam [nesse arquivo](https://xd.adobe.com/view/dbdc850b-ce84-4227-67b7-ac0974fda9a6-aded/).
+
+<p align="center">
+    <img alt="XD" title="#BarbecueCalculator" src="./barbecue-calculator-xd.jpeg" width="500px" />
+</p>
+
 ```bash
 
 # Clone this repository
@@ -30,4 +39,4 @@ $ git clone https://github.com/PedroSato/gama-academy-calculadora-churrasco
 
 ### Criado por:
 
-- Equipe Gama Academy.
+- Equipe Gama Academy && [@michellehorn](https://github.com/michellehorn)
