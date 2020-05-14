@@ -16,7 +16,7 @@ Este projeto é destinado aos alunes da stack Hacker do Gama Experience. O proje
 
 ## Começando 🏁
 
-Para conseguir utilizar o template basta fazer o download do projeto ou clonando utilizando o Git em seu terminal.
+Para conseguir utilizar o template basta fazer o download do projeto ou clonar este repositório utilizando o Git em seu terminal.
 
 ```bash
 
@@ -26,7 +26,7 @@ $ git clone https://github.com/PedroSato/gama-academy-calculadora-churrasco
 
 ### Pré-requisitos :large_orange_diamond:
 
-- Editor de texto de sua preferência. (Aqui na Gama utilizamos o VSCode)
+- Editor de texto de sua preferência. (Aqui na Gama utilizamos o [VSCode](https://code.visualstudio.com))
 
 ### Criado por:
 
