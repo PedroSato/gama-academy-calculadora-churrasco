@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Lobster&display=swap');
+
+body {
+    background-color: #731AB7;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+
+.container-fluid {
+    background-color: rgba(10, 1, 1,0.19);
+    max-width: 70vw;
+    min-height: 100vh;
+}
+
+h5 {
+    text-align: center;    
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 0px 3px 6px #636363;
+}
+
+input {
+    background-color: transparent;
+    border: 3px solid #fff;
+    width: 100%;
+}
+
+.tabela {
+    max-width: 80%;
+    background-color: rgba(255, 255, 255, 0.43);
+    border-radius: 5px;
+    padding: 1em;
+    margin-bottom: 0;
+    line-height: 2.5em;
+}
+
+.botao {
+    background-color: #63DC3E;
+    width: 100%;
+    padding: 1em;
+    border: 0px;
+    border-radius: 3px;
+    color: #731AB7;
+}
